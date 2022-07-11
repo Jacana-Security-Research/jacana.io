@@ -1,0 +1,4 @@
+baseURL = 'http://jacana.io'
+languageCode = 'en-us'
+title = 'Jacana Security Research LLC'
+theme = 'dimension'
