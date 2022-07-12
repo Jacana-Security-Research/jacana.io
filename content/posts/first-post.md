@@ -2,7 +2,7 @@
 title: "First Post"
 author: pdlloyd
 date: 2022-07-11T13:20:38-07:00
-draft: true
+draft: false
 ---
 
 # Hello World!
